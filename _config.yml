@@ -10,7 +10,7 @@ title: Bratchikov Privacy Policy
 email: igor@bratchikovy.ru
 description: > # this means to ignore newlines until "baseurl:"
   Privacy policies for applications.
-baseurl: "" # the subpath of your site, e.g. /blog
+baseurl: "/privacy-policy" # the subpath of your site, e.g. /blog
 url: "http://bratchikovy-soft.blogspot.ru" # the base hostname & protocol for your site
 twitter_username: bratchikov_igor
 github_username:  bratchikov
