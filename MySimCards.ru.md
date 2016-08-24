@@ -1,6 +1,6 @@
 ---
 layout: page
-title: My Sim Cards Privacy Policy
+title: My Sim Cards Privacy Policy (Ru)
 ---
 
 Приложение MySimCards сохраняет информацию пользователя только на самом устройстве. Приложение не осуществляет какую-либо передачу информации.
